@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LilypadAPI">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="LilypadAPI.jar">
+      <element id="module-output" name="LilypadAPI" />
+    </root>
+  </artifact>
+</component>
